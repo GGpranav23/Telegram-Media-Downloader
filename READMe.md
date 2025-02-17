@@ -134,14 +134,3 @@ This project is licensed under the **GNU GPLv3 License**. See the [LICENSE file]
 ---
 
 **Telegram Media Downloader** is open-source and built with 💖 by the community!
-
----
-
-### **Screenshots**
-Include some example screenshots of how the download button appears in Telegram Web with this script!
-
----
-
-This README provides a polished, professional overview while still keeping it engaging. It includes all essential details like installation, usage, and contributing, and it offers a clear path for users and developers to get involved.
-
-Let me know if you need any more adjustments! 🚀
